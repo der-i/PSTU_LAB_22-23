@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\code\Laba_4\Laba_4\main.cpp(14,9): warning C4101: j: неиспользованная локальная переменная
+D:\code\Laba_4\Laba_4\main.cpp(64,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Laba_4.vcxproj -> D:\code\Laba_4\x64\Debug\Laba_4.exe
