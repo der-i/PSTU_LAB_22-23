@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\code\line_HASH_Search\ConsoleApplication2\main.cpp(148,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\code\line_HASH_Search\ConsoleApplication2\main.cpp(187,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\code\line_HASH_Search\ConsoleApplication2\main.cpp(215,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\code\line_HASH_Search\ConsoleApplication2\main.cpp(248,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\code\line_HASH_Search\ConsoleApplication2\main.cpp(259,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\code\line_HASH_Search\ConsoleApplication2\main.cpp(266,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\code\line_HASH_Search\ConsoleApplication2\main.cpp(290,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\code\line_HASH_Search\ConsoleApplication2\main.cpp(314,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\code\line_HASH_Search\ConsoleApplication2\main.cpp(336,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\code\line_HASH_Search\ConsoleApplication2\main.cpp(354,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication2.vcxproj -> D:\code\line_HASH_Search\x64\Debug\ConsoleApplication2.exe

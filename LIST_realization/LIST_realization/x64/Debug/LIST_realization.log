@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\code\LIST_realization\LIST_realization\main.cpp(411): warning C4715: List<MyClass>::operator[]: значение возвращается не при всех путях выполнения
+  LIST_realization.vcxproj -> D:\code\LIST_realization\x64\Debug\LIST_realization.exe

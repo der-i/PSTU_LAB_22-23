@@ -1,0 +1,12 @@
+﻿  List_Hash_realization.cpp
+D:\code\List_Hash_realization\List_Hash_realization\List_Hash_realization.cpp(122,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\code\List_Hash_realization\List_Hash_realization\List_Hash_realization.cpp(136,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\code\List_Hash_realization\List_Hash_realization\List_Hash_realization.cpp(183,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\code\List_Hash_realization\List_Hash_realization\List_Hash_realization.cpp(220,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\code\List_Hash_realization\List_Hash_realization\List_Hash_realization.cpp(231,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\code\List_Hash_realization\List_Hash_realization\List_Hash_realization.cpp(238,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\code\List_Hash_realization\List_Hash_realization\List_Hash_realization.cpp(267,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\code\List_Hash_realization\List_Hash_realization\List_Hash_realization.cpp(291,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\code\List_Hash_realization\List_Hash_realization\List_Hash_realization.cpp(313,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\code\List_Hash_realization\List_Hash_realization\List_Hash_realization.cpp(331,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  List_Hash_realization.vcxproj -> D:\code\List_Hash_realization\x64\Debug\List_Hash_realization.exe
