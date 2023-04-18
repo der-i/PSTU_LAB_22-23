@@ -1,0 +1,6 @@
+﻿  iterator.cpp
+  main.cpp
+  Pair.cpp
+  Создание кода...
+D:\code\Информатика\Классы\LAB7_Class\LAB7_Class\List.h(191): warning C4715: List<Pair>::operator[]: значение возвращается не при всех путях выполнения
+  LAB7_Class.vcxproj -> D:\code\Информатика\Классы\LAB7_Class\x64\Debug\LAB7_Class.exe
