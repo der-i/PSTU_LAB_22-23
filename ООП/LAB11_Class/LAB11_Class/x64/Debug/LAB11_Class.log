@@ -1,0 +1,46 @@
+﻿  main.cpp
+D:\code\LAB11_Class\LAB11_Class\4.h(60,23): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+D:\code\LAB11_Class\LAB11_Class\1.h(76): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+D:\code\LAB11_Class\LAB11_Class\2.h(15,32): message : выполняется компиляция ссылки на экземпляр шаблон функции "T SearchMidVal<Pair>(std::list<Pair,std::allocator<Pair>> &)"
+          with
+          [
+              T=Pair
+          ]
+D:\code\LAB11_Class\LAB11_Class\3.h(58,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\code\LAB11_Class\LAB11_Class\3.h(56,1): message : во время компиляции функции-члена класс шаблон "void List<Pair>::PushMidVal(void)"
+D:\code\LAB11_Class\LAB11_Class\3.h(112,16): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<Pair>::PushMidVal(void)"
+D:\code\LAB11_Class\LAB11_Class\3.h(108,18): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<Pair>"
+D:\code\LAB11_Class\LAB11_Class\3.h(77,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\code\LAB11_Class\LAB11_Class\3.h(63,1): message : во время компиляции функции-члена класс шаблон "void List<Pair>::DelElem(void)"
+D:\code\LAB11_Class\LAB11_Class\3.h(116,13): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<Pair>::DelElem(void)"
+D:\code\LAB11_Class\LAB11_Class\5.h(66,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\code\LAB11_Class\LAB11_Class\5.h(64,1): message : во время компиляции функции-члена класс шаблон "void Priority_queue<Pair>::PushMidVal(void)"
+D:\code\LAB11_Class\LAB11_Class\5.h(129,16): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Priority_queue<Pair>::PushMidVal(void)"
+D:\code\LAB11_Class\LAB11_Class\5.h(125,28): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Priority_queue<Pair>"
+D:\code\LAB11_Class\LAB11_Class\3.h(51,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+D:\code\LAB11_Class\LAB11_Class\3.h(47,1): message : во время компиляции функции-члена класс шаблон "T List<T>::SearchMidVal(void)"
+          with
+          [
+              T=Pair
+          ]
+D:\code\LAB11_Class\LAB11_Class\3.h(57,15): message : выполняется компиляция ссылки на экземпляр шаблон функции "T List<T>::SearchMidVal(void)"
+          with
+          [
+              T=Pair
+          ]
+D:\code\LAB11_Class\LAB11_Class\3.h(25,1): message : во время компиляции функции-члена класс шаблон "List<Pair>::List(int)"
+D:\code\LAB11_Class\LAB11_Class\3.h(108,13): message : выполняется компиляция ссылки на экземпляр шаблон функции "List<Pair>::List(int)"
+D:\code\LAB11_Class\LAB11_Class\5.h(59,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+D:\code\LAB11_Class\LAB11_Class\5.h(51,1): message : во время компиляции функции-члена класс шаблон "T Priority_queue<T>::SearchMidVal(void)"
+          with
+          [
+              T=Pair
+          ]
+D:\code\LAB11_Class\LAB11_Class\5.h(65,8): message : выполняется компиляция ссылки на экземпляр шаблон функции "T Priority_queue<T>::SearchMidVal(void)"
+          with
+          [
+              T=Pair
+          ]
+D:\code\LAB11_Class\LAB11_Class\5.h(24,1): message : во время компиляции функции-члена класс шаблон "Priority_queue<Pair>::Priority_queue(int)"
+D:\code\LAB11_Class\LAB11_Class\5.h(125,23): message : выполняется компиляция ссылки на экземпляр шаблон функции "Priority_queue<Pair>::Priority_queue(int)"
+  LAB11_Class.vcxproj -> D:\code\LAB11_Class\x64\Debug\LAB11_Class.exe

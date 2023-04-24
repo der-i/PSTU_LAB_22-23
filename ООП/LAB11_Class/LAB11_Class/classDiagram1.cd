@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="List&lt;T&gt;">
+    <Position X="2" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAgIAACAAAQAAAAAAACAIAAAIEAAI=</HashCode>
+      <FileName>3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Priority_queue&lt;T&gt;">
+    <Position X="2" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAABAAAIAICAAAQAAAAAAACCAAAAIEAAA=</HashCode>
+      <FileName>5.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pair">
+    <Position X="6" Y="1.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAgQgEAAQAIAAAAAAAAAAAgAQIQIAA=</HashCode>
+      <FileName>Pair.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
