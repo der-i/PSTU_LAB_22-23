@@ -1,0 +1,6 @@
+﻿  iterator.cpp
+  List.cpp
+  main.cpp
+  Создание кода...
+D:\code\informatika\Class\LAB9_Class\LAB9_Class_3\LAB9_Class_3\List.cpp(76): warning C4715: List::operator[]: значение возвращается не при всех путях выполнения
+  LAB9_Class_3.vcxproj -> D:\code\informatika\Class\LAB9_Class\LAB9_Class_3\x64\Debug\LAB9_Class_3.exe
