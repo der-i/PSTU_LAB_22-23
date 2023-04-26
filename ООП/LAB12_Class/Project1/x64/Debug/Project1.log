@@ -1,13 +1,13 @@
 ﻿  main.cpp
-D:\code\Информатика\Классы\LAB12_Class\Project1\number2.h(9,32): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
-D:\code\Информатика\Классы\LAB12_Class\Project1\List.h(7): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-D:\code\Информатика\Классы\LAB12_Class\Project1\List.h(7,1): message : во время компиляции функции-члена класс шаблон "List<Pair>::List(void)"
-D:\code\Информатика\Классы\LAB12_Class\Project1\number3.h(7,13): message : выполняется компиляция ссылки на экземпляр шаблон функции "List<Pair>::List(void)"
-D:\code\Информатика\Классы\LAB12_Class\Project1\number3.h(7,13): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<Pair>"
-D:\code\Информатика\Классы\LAB12_Class\Project1\List.h(43,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
-D:\code\Информатика\Классы\LAB12_Class\Project1\List.h(39,1): message : во время компиляции функции-члена класс шаблон "void List<Pair>::plus_mid(void)"
-D:\code\Информатика\Классы\LAB12_Class\Project1\number3.h(15,15): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<Pair>::plus_mid(void)"
-D:\code\Информатика\Классы\LAB12_Class\Project1\List.h(56,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-D:\code\Информатика\Классы\LAB12_Class\Project1\List.h(49,1): message : во время компиляции функции-члена класс шаблон "void List<Pair>::searchAndDel(void)"
-D:\code\Информатика\Классы\LAB12_Class\Project1\number3.h(19,19): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<Pair>::searchAndDel(void)"
-  Project1.vcxproj -> D:\code\Информатика\Классы\LAB12_Class\x64\Debug\Project1.exe
+D:\Repozitory\ООП\LAB12_Class\Project1\number2.h(9,32): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+D:\Repozitory\ООП\LAB12_Class\Project1\List.h(7): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Repozitory\ООП\LAB12_Class\Project1\List.h(7,1): message : во время компиляции функции-члена класс шаблон "List<Pair>::List(void)"
+D:\Repozitory\ООП\LAB12_Class\Project1\number3.h(7,13): message : выполняется компиляция ссылки на экземпляр шаблон функции "List<Pair>::List(void)"
+D:\Repozitory\ООП\LAB12_Class\Project1\number3.h(7,13): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<Pair>"
+D:\Repozitory\ООП\LAB12_Class\Project1\List.h(43,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+D:\Repozitory\ООП\LAB12_Class\Project1\List.h(39,1): message : во время компиляции функции-члена класс шаблон "void List<Pair>::plus_mid(void)"
+D:\Repozitory\ООП\LAB12_Class\Project1\number3.h(15,15): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<Pair>::plus_mid(void)"
+D:\Repozitory\ООП\LAB12_Class\Project1\List.h(56,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Repozitory\ООП\LAB12_Class\Project1\List.h(49,1): message : во время компиляции функции-члена класс шаблон "void List<Pair>::searchAndDel(void)"
+D:\Repozitory\ООП\LAB12_Class\Project1\number3.h(19,19): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<Pair>::searchAndDel(void)"
+  Project1.vcxproj -> D:\Repozitory\ООП\LAB12_Class\x64\Debug\Project1.exe
