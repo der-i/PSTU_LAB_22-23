@@ -11,6 +11,5 @@ int main()
 	//number2();
 	number3();
 
-	//return 0;
-
+	return 0;
 }

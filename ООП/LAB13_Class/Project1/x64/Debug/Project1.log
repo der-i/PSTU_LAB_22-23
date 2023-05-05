@@ -1,6 +1,7 @@
 ﻿  main.cpp
-D:\code\informatika\Class\LAB13_Class\Project1\number1.h(11,33): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
-D:\code\informatika\Class\LAB13_Class\Project1\number1.h(24,11): warning C4858: Отбрасывание возвращаемого значения: The 'remove' and 'remove_if' algorithms return the iterator past the last element that should be kept. You need to call container.erase(result, container.end()) afterwards. In C++20, 'std::erase' and 'std::erase_if' are simpler replacements for these two steps..
-D:\code\informatika\Class\LAB13_Class\Project1\number2.h(70,23): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
-D:\code\informatika\Class\LAB13_Class\Project1\number3.h(18,37): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
-  Project1.vcxproj -> D:\code\informatika\Class\LAB13_Class\x64\Debug\Project1.exe
+D:\Repozitory\ООП\LAB13_Class\Project1\number1.h(11,33): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+D:\Repozitory\ООП\LAB13_Class\Project1\number2.h(70,23): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+D:\Repozitory\ООП\LAB13_Class\Project1\number3.h(18,37): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+  Pair.cpp
+  Создание кода...
+  Project1.vcxproj -> D:\Repozitory\ООП\LAB13_Class\x64\Debug\Project1.exe

@@ -21,8 +21,8 @@ void searchAndDel(list<Pair>& lst)			//ищем и удаляем
 	auto left = lst.begin(); auto right = lst.begin();
 	advance(left, min);			//смещаем итераторы, чтобы установит диапазон 
 	advance(right, max);
-	remove_if(left, right, [&y](Pair& x)	//удалем если введенное число совпадает с тем, на которое мы указываем
-		{return x == y;});		//анонимная функция
+	lst.erase(remove_if(left, right, [&y](Pair& x)	//удалем если введенное число совпадает с тем, на которое мы указываем
+		{return x == y;}));		//анонимная функция
 }
 
 void plusMinMax(list<Pair>& lst)		//добавление к каждому элементу мин и макс значения
