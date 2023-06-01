@@ -1,0 +1,17 @@
+﻿  main.cpp
+D:\code\informatika\Last_LAB\Tree\Tree\tree.h(134,9): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\code\informatika\Last_LAB\Tree\Tree\tree.h(107,1): message : во время компиляции функции-члена класс шаблон "bool Tree<int>::erase(const T &)"
+          with
+          [
+              T=int
+          ]
+D:\code\informatika\Last_LAB\Tree\Tree\main.cpp(24,2): message : см. первую ссылку на "Tree<int>::erase" в "main"
+D:\code\informatika\Last_LAB\Tree\Tree\main.cpp(11,12): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Tree<int>"
+D:\code\informatika\Last_LAB\Tree\Tree\tree.h(275,14): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\code\informatika\Last_LAB\Tree\Tree\tree.h(271,1): message : во время компиляции функции-члена класс шаблон "void Tree<int>::HelperClear(Tree<int>::Node *)"
+D:\code\informatika\Last_LAB\Tree\Tree\tree.h(282,1): message : во время компиляции функции-члена класс шаблон "void Tree<int>::clear(void)"
+D:\code\informatika\Last_LAB\Tree\Tree\tree.h(66,13): message : см. первую ссылку на "Tree<int>::clear" в "Tree<int>::~Tree"
+D:\code\informatika\Last_LAB\Tree\Tree\main.cpp(11,12): message : см. первую ссылку на "Tree<int>::~Tree" в "main"
+D:\code\informatika\Last_LAB\Tree\Tree\tree.h(57,1): message : во время компиляции функции-члена класс шаблон "Tree<int>::Tree(void)"
+D:\code\informatika\Last_LAB\Tree\Tree\main.cpp(11,12): message : см. первую ссылку на "Tree<int>::Tree" в "main"
+  Tree.vcxproj -> D:\code\informatika\Last_LAB\Tree\x64\Debug\Tree.exe
